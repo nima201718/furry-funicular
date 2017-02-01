@@ -68,18 +68,5 @@ public class FloydWarshall_AllPais_Shortest_PathAlgorithm {
 		System.out.println(x + getPath(x - 1, y - 1) + y + "  : with distances " + Distance[x - 1][y - 1]);
 		System.out.println("Number of nodes : " + Middle);
 
-		// int graph[][] = {{0, 5, INF, 10, INF},
-		// {INF, 0, 4, 6, 7},
-		// {3, INF, 0, INF, 1},
-		// {INF, INF, 8, 0, INF},
-		// {INF, INF, INF, 10, 0}
-		// };
-		// V = graph.length;
-		// int x = 1;
-		// int y = 5;
-		// floydWarshall(graph);
-		// System.out.println(x + getPath(x - 1, y - 1) + y + " : with distances
-		// " + dist[x - 1][y - 1]);
-		// System.out.println("num of cities : " + some);
 	}
 }
