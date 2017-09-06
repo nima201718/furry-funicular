@@ -1,7 +1,7 @@
 /*
  Created and developed by  :
  
- Nima Namvar , nima.nima.2008@gmail.com
+ nima.nima.2008@gmail.com
  Base source : geeksforgeeks.org
  
  
